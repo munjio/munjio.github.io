@@ -14,7 +14,7 @@
 
 .video-wrapper { text-align: center; padding-bottom: 30px; padding-top: 30px; }
 
-#buttons { margin-bottom: 40px; }
+#buttons {  text-align: center; margin-bottom: 40px; }
 
 .button {
 	background: url(button2.jpg) top left;
