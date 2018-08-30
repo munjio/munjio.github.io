@@ -6,6 +6,8 @@
 	color: #586b8c;
 	border-top: 6px solid #d45615; }
 
+.wrapper { max-width: 800px;}
+
 #logo { margin: 0 auto; }
 
 #video { margin: 0 auto; margin-bottom: 50px; margin-top: -50px; width: 90%; box-shadow: 3px 5px 1px rgba(0,0,0,0.2); }
@@ -13,8 +15,6 @@
 .video-wrapper { position: relative; height: 0; overflow: hidden; padding-bottom: 30px; padding-top: 30px; }
 
 #buttons { margin-bottom: 40px; }
-
-.container { max-width: 807px;}
 
 .button {
 	background: url(button2.jpg) top left;
